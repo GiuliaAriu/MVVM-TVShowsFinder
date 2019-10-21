@@ -32,7 +32,8 @@ enum Router {
     
     var queryItems: [URLQueryItem] {
         
-        let apiKey = "06c477fb6235927e8e8ea7e96b18133c"
+        ///INSERT YOUR API KEY HERE
+        let apiKey = ""
         
         switch self {
         case .getTVShowList:
